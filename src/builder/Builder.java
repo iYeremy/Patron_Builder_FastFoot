@@ -24,22 +24,22 @@ public class Builder {
 
 
     public Builder cheese(){
-        this.cheese = cheese;
+        this.cheese = true;
         return this; // Return object type Builder [.cheese()]
     }
 
     public Builder tomato(){
-        this.tomato = tomato;
+        this.tomato = true;
         return this;
     }
 
     public Builder ketchup(){
-        this.ketchup = ketchup;
+        this.ketchup = true;
         return this;
     }
 
     public Builder lettuce(){
-        this.lettuce = lettuce;
+        this.lettuce = true;
         return this;
     }
     
