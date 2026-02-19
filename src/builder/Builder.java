@@ -1,6 +1,6 @@
 package builder;
 
-import product.Hamburguer
+import product.Hamburguer;
 
 public class Builder {
 
