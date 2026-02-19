@@ -52,7 +52,7 @@ public class Hamburguer {
     // toString to display on console
     @Override
     public String toString() {
-        return "Hamburguesa {" +
+        return "Hamburguer {" +
                 "bread='" + bread + '\'' +
                 ", meat='" + meat + '\'' +
                 ", cheese=" + cheese +
