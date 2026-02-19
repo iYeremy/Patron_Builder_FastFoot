@@ -1,7 +1,5 @@
 # Análisis del Problema: Implementación del Patrón Builder
 
-A continuación, presento la documentación de análisis requerida para el taller, redactada de forma clara y accesible para tus compañeros.
-
 ## 1. Introducción y Contexto
 
 En el desarrollo de software, nos enfrentamos frecuentemente al reto de crear objetos que tienen muchas variantes. En nuestro sistema de pedidos de comida rápida, la **Hamburguesa** es el ejemplo perfecto. No todos los clientes quieren lo mismo: algunos evitan el tomate, otros piden doble queso y algunos prefieren pan integral.
