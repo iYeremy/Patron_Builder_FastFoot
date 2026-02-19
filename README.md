@@ -29,7 +29,7 @@ Hemos elegido el patrón Builder por tres razones principales:
 </div>
 
 > [!CAUTION]
-> Ya que uno de los requisitos fue que el constructor de Hamburguer fuera privado, solo esta clase la puede usar. La unica manera para hacer el ejercicio fue >implementar la clase estatica Build dentro de Hamburguer. Como se ve en el diagrama, no tiene una forma similar al diagrama UML del libro o de la presentacion en >clase. Aun con todo esto, sigue cumpliendo con el patron Build
+> Ya que uno de los requisitos fue que el constructor de Hamburguer fuera privado, solo esta clase la puede usar. La unica manera para hacer el ejercicio fue     implementar la clase estatica Build dentro de Hamburguer. Como se ve en el diagrama, no tiene una forma similar al diagrama UML del libro o de la presentacion en clase. Aun con todo esto, sigue cumpliendo con el patron Build
 
 
 ## 4. Estructura de la Solución
