@@ -32,12 +32,18 @@ Hemos elegido el patrón Builder por tres razones principales:
 > Ya que uno de los requisitos fue que el constructor de Hamburguer fuera privado, solo esta clase la puede usar. La unica manera para hacer el ejercicio fue     implementar la clase estatica Build dentro de Hamburguer. Como se ve en el diagrama, no tiene una forma similar al diagrama UML del libro o de la presentacion en clase. Aun con todo esto, sigue cumpliendo con el patron Build
 
 
-## 4. Estructura de la Solución
+## 5. Estructura de la Solución
 
 La solución se organiza separando la lógica en paquetes:
 
 - **Paquete `models`:** Contiene la definición de la hamburguesa y su constructor inteligente (Builder). Se definió como una clase inmutable para proteger los datos.
 - **Paquete `app`:** Contiene la clase `Main`, que actúa como el cliente que realiza los pedidos utilizando la interfaz fluida (Fluent API) que proporciona el Builder.
+
+## 6. Salida por consola
+
+<div align="center">
+  <img src="docs/Console.png" alt="Console Output">
+</div>
 
 ## Conclusión del Análisis
 
